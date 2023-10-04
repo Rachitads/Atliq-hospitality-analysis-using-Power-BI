@@ -1,5 +1,5 @@
 # Atliq-hospitality-analysis-using-Power-BI
-Revenue Insights for Hospitality Management (A Case Study of AtliQ Grands)
+Revenue Insights for Hospitality Management of AtliQ Grands
 
 
 
